@@ -1,3 +1,3 @@
 # Baukasten
 
-A desktop environment you assemble, not inherit.
+A desktop shell you assemble, not inherit.
