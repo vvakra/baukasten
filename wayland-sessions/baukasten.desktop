@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Baukasten
+Comment=A desktop shell you assemble, not inherit.
+Exec=/usr/bin/baukasten-session
+Type=Application
+DesktopNames=baukasten
